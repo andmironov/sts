@@ -1,0 +1,26 @@
+{
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babelify": "^8.0.0",
+    "browser-sync": "^2.23.7",
+    "browserify": "^16.2.0",
+    "exorcist": "^1.0.1",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-util": "^3.0.8",
+    "vinyl-source-stream": "^2.0.0",
+    "watchify": "^3.11.0"
+  },
+  "dependencies": {
+    "d3": "^5.1.0",
+    "d3-ease": "^1.0.2",
+    "d3-interpolate": "^1.1.2",
+    "d3-scale": "^1.0.4",
+    "gulp": "^3.9.1",
+    "lodash.assign": "^4.2.0",
+    "lodash.clone": "^4.0.1",
+    "lodash.foreach": "^4.0.0",
+    "lodash.isempty": "^4.0.0",
+    "lodash.isequal": "^4.0.0"
+  }
+}
